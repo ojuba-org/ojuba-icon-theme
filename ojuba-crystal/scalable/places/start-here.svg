@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   id="svg2429"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="ojuba-logo-icon2.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2431">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 150 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="300 : 150 : 1"
+       inkscape:persp3d-origin="150 : 100 : 1"
+       id="perspective14" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.4474591"
+     inkscape:cx="150.2453"
+     inkscape:cy="147.83401"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="922"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata2434">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2386">
+      <path
+         id="rect3215"
+         d="M 226.71875,12.96875 C 173.31208,13.799937 119.66516,12.242105 66.40625,13.78125 C 55.525676,16.969628 50.575021,29.79816 52.783351,40.249998 C 53.171072,119.36466 51.936182,198.563 53.46875,277.625 C 56.598603,288.35796 69.329052,293.43512 79.781229,291.14984 C 131.55098,290.56781 183.42044,292.40904 235.125,290.15625 C 245.86477,286.40533 249.70934,273.60981 247.67911,263.15627 C 247.26562,184.25893 248.65818,105.28716 246.875,26.4375 C 244.41288,18.018111 235.28086,12.377017 226.71875,12.96875 z"
+         style="fill:#ffffff;fill-opacity:0.87111109;fill-rule:evenodd;stroke:none;stroke-width:2.12552142000000011px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/kefah/ojubatlinux.png"
+         ry="27.215874"
+         y="7.8072519"
+         x="47.498756"
+         height="288.71747"
+         width="205.49309"
+         id="rect1574"
+         style="fill:#74dc00;fill-opacity:0.32369941;stroke:#362f34;stroke-width:5.46517992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/kefah/ojubatlinux.png"
+         transform="matrix(3.8250516,0,0,3.899496,-1384.6692,-1562.6671)"
+         sodipodi:open="true"
+         sodipodi:end="6.4883219"
+         sodipodi:start="0.26473292"
+         d="M 411.29576,424.85129 A 11.299676,11.299676 0 1 1 411.4525,424.19647"
+         sodipodi:ry="11.299676"
+         sodipodi:rx="11.299676"
+         sodipodi:cy="421.89471"
+         sodipodi:cx="400.38974"
+         id="path1616"
+         style="fill:none;stroke:#87ff76;stroke-width:1.30269027;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/kefah/ojubatlinux.png"
+         transform="matrix(4.2136809,0,0,5.0910775,-1360.0206,-1996.2105)"
+         sodipodi:open="true"
+         sodipodi:end="6.4883219"
+         sodipodi:start="0.26473292"
+         d="M 373.80825,434.54901 A 16.609163,14.02249 0 1 1 374.03863,433.7364"
+         sodipodi:ry="14.02249"
+         sodipodi:rx="16.609163"
+         sodipodi:cy="430.88"
+         sodipodi:cx="357.77771"
+         id="path1618"
+         style="fill:none;stroke:#a3e5a2;stroke-width:1.08624649;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/kefah/ojubatlinux.png"
+         transform="matrix(2.8879402,0,0,2.5839329,-1263.3521,-784.9746)"
+         d="M 492.03616,384.40247 C 492.70102,382.05749 495.52516,384.14175 495.93367,385.5075 C 497.0407,389.2086 493.11831,392.09243 489.8261,392.19747 C 483.93709,392.38537 479.97633,386.54783 480.34365,381.08737 C 480.88271,373.07392 488.85453,367.90785 496.4563,368.81245 C 506.58826,370.01814 512.9913,380.19261 511.52368,389.92763 C 509.67682,402.17817 497.27077,409.83106 485.40596,407.78749 C 471.03609,405.31244 462.12669,390.65995 464.75364,376.66723 C 467.24862,363.37747 479.03816,353.62176 492.37364,352.68032"
+         sodipodi:t0="0"
+         sodipodi:argument="-7.5777087"
+         sodipodi:radius="31.723936"
+         sodipodi:revolution="1.9577229"
+         sodipodi:expansion="1"
+         sodipodi:cy="384.40247"
+         sodipodi:cx="492.03616"
+         id="path1620"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="spiral" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/kefah/ojubatlinux.png"
+         transform="matrix(-6.8832638,0,0,6.8726235,3745.8306,-2527.7829)"
+         d="M 522.034,378.78534 C 521.89581,379.32823 521.23401,378.86691 521.13167,378.55567 C 520.85434,377.71221 521.7376,377.02528 522.49334,376.9807 C 523.84518,376.90094 524.79144,378.21753 524.74096,379.47436 C 524.66689,381.31881 522.86744,382.55524 521.1153,382.39463 C 518.77998,382.18055 517.24567,379.88273 517.52239,377.63697 C 517.87061,374.81092 520.67338,372.97559 523.41204,373.37141 C 526.72891,373.85079 528.86688,377.16189 528.35025,380.39305 C 527.80522,383.80185 524.63514,386.20315 521.23652,386.10735"
+         sodipodi:t0="0"
+         sodipodi:argument="-10.746331"
+         sodipodi:radius="7.3653135"
+         sodipodi:revolution="1.977598"
+         sodipodi:expansion="1"
+         sodipodi:cy="378.78534"
+         sodipodi:cx="522.034"
+         id="path1622"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1.00017166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="spiral" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/kefah/ojubatlinux.png"
+         id="path1624"
+         d="M 148.44786,126.61313 L 199.66217,117.50619"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:5.03118324px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="48" height="48" viewBox="0 0 81.837 87.892" id="svg334">
+  <metadata id="metadata56712">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs389"/>
+  <g id="switch338">
+    <foreignObject id="foreignObject340" content="structured text" height="1" width="1" y="0" x="0" requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"/>
+    <g id="g342">
+      <g id="Layer_1">
+        <linearGradient x1="53.9487" y1="7.6244998" x2="35.614498" y2="57.080299" id="XMLID_4_" gradientUnits="userSpaceOnUse">
+          <stop style="stop-color:#9eabb0;stop-opacity:1" offset="0" id="stop346"/>
+          <stop style="stop-color:#8e9ca1;stop-opacity:1" offset="0.0973" id="stop348"/>
+          <stop style="stop-color:#495b63;stop-opacity:1" offset="0.52899998" id="stop350"/>
+          <stop style="stop-color:#1e323d;stop-opacity:1" offset="0.84119999" id="stop352"/>
+          <stop style="stop-color:#0e232e;stop-opacity:1" offset="1" id="stop354"/>
+        </linearGradient>
+        <path d="M 81.837,50.5 C 81.837,75.93 61.796,92.215 38.165,86.879 C 15.288,81.715 -0.325,58.983 0.005,33.553 C 0.33,8.135 21.837,0 38.837,0 C 63.337,0 81.837,26.5 81.837,50.5 z " style="fill:url(#XMLID_4_)" id="path356"/>
+        <linearGradient x1="54.533699" y1="12.3379" x2="37.961102" y2="57.041901" id="XMLID_5_" gradientUnits="userSpaceOnUse">
+          <stop style="stop-color:#ffffff;stop-opacity:1" offset="0" id="stop359"/>
+          <stop style="stop-color:#3e525c;stop-opacity:1" offset="1" id="stop361"/>
+        </linearGradient>
+        <path d="M 76.861,52.479 C 76.591,73.249 58.136,86.575 37.859,83.067 C 18.986,79.803 10.289,52.942 10.56,32.174 C 10.826,11.412 23.833,-1.092 44.199,4.736 C 62.607,10.006 77.128,31.719 76.861,52.479 z " style="fill:url(#XMLID_5_)" id="path363"/>
+        <path d="M 69.105,55.123 C 68.835,75.893 53.777,88.178 35.47,82.568 C 17.156,76.961 2.531,55.586 2.802,34.818 C 3.07,14.057 18.128,1.773 36.443,7.381 C 54.75,12.988 69.373,34.363 69.105,55.123 z " style="fill:#ffffff" id="path365"/>
+        <radialGradient cx="35.351101" cy="56.085899" r="40.096401" fx="35.351101" fy="56.085899" id="XMLID_6_" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9372,0.287,-1.37e-2,1.0628,14.9735,-67.7581)">
+          <stop style="stop-color:#ffffff;stop-opacity:1" offset="0" id="stop368"/>
+          <stop style="stop-color:#f6fcff;stop-opacity:1" offset="0.0917" id="stop370"/>
+          <stop style="stop-color:#dcf3ff;stop-opacity:1" offset="0.24429999" id="stop372"/>
+          <stop style="stop-color:#b3e4ff;stop-opacity:1" offset="0.43889999" id="stop374"/>
+          <stop style="stop-color:#79d0ff;stop-opacity:1" offset="0.66799998" id="stop376"/>
+          <stop style="stop-color:#30b6ff;stop-opacity:1" offset="0.92339998" id="stop378"/>
+          <stop style="stop-color:#19aeff;stop-opacity:1" offset="1" id="stop380"/>
+        </radialGradient>
+        <path d="M 63.988,53.373 C 63.759,71.035 50.951,81.482 35.377,76.713 C 19.802,71.941 7.365,53.764 7.591,36.102 C 7.82,18.441 20.628,7.992 36.205,12.764 C 51.777,17.531 64.216,35.713 63.988,53.373 z " style="fill:url(#XMLID_6_)" id="path382"/>
+        <g id="g384">
+          <path d="M 41.803,45.006 C 36.96,46.623 37.003,48.96 37.141,53.237 L 30.14,50.924 C 26.856,45.874 28.427,42.378 32.87,40.295 C 35.393,39.119 37.529,37.453 37.406,35.605 C 37.254,33.329 34.322,30.704 31.739,30.051 C 28.651,29.269 26.711,31.676 25.952,32.391 L 20.888,25.222 C 23.845,23.126 27.312,20.861 33.046,22.313 C 40.292,24.146 46.418,29.944 46.887,36.959 C 47.195,41.575 45.198,43.87 41.803,45.006 z M 34.044,67.312 C 30.767,66.484 27.943,63.166 27.722,59.843 C 27.499,56.521 30.09,54.513 33.492,55.374 C 36.769,56.203 39.723,59.614 39.95,62.998 C 40.167,66.26 37.51,68.188 34.044,67.312 z " style="fill:#ffffff" id="path386"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

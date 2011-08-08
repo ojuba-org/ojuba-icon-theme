@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="48" height="48" viewBox="0 0 86.762 93.817" id="svg391">
+  <metadata id="metadata56752">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs461"/>
+  <g id="switch395">
+    <foreignObject id="foreignObject397" content="structured text" height="1" width="1" y="0" x="0" requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"/>
+    <g id="g399">
+      <g id="Layer_3">
+        <linearGradient x1="43.380901" y1="67.908203" x2="43.380901" y2="114.5752" id="XMLID_5_" gradientUnits="userSpaceOnUse">
+          <stop style="stop-color:#9eabb0;stop-opacity:1" offset="0" id="stop403"/>
+          <stop style="stop-color:#707f86;stop-opacity:1" offset="0.2956" id="stop405"/>
+          <stop style="stop-color:#2a3d47;stop-opacity:1" offset="0.77579999" id="stop407"/>
+          <stop style="stop-color:#0e232e;stop-opacity:1" offset="1" id="stop409"/>
+        </linearGradient>
+        <path d="M 40.014,0.798 C 38.797,1.352 36.972,2.676 34.327,4.632 L 32.462,5.984 C 30.626,7.11 29.01,8.86 27.665,11.187 L 2.171,55.266 C -0.209,59.381 -0.655,64.043 0.947,68.057 C 2.55,72.071 6.085,75.143 10.645,76.486 L 66.996,93.082 C 70.568,94.134 73.717,94.056 76.1,92.857 C 78.063,91.871 83.038,88.133 84.133,87.182 C 85.104,86.338 86.762,84.405 86.762,81.055 C 86.762,79.351 86.332,77.28 85.162,74.796 L 53.412,7.398 C 50.01,0.176 44.231,-1.122 40.014,0.798 z " style="fill:url(#XMLID_5_)" id="path411"/>
+        <linearGradient x1="84.132797" y1="87.180702" x2="84.132698" y2="87.181297" id="XMLID_6_" gradientUnits="userSpaceOnUse">
+          <stop style="stop-color:#9eabb0;stop-opacity:1" offset="0" id="stop414"/>
+          <stop style="stop-color:#707f86;stop-opacity:1" offset="0.2956" id="stop416"/>
+          <stop style="stop-color:#2a3d47;stop-opacity:1" offset="0.77579999" id="stop418"/>
+          <stop style="stop-color:#0e232e;stop-opacity:1" offset="1" id="stop420"/>
+        </linearGradient>
+        <path d="M 84.133,87.182 L 84.133,87.182 C 84.133,87.182 84.133,87.182 84.133,87.182 z " style="fill:url(#XMLID_6_)" id="path422"/>
+        <linearGradient x1="35.038601" y1="105.6104" x2="51.038601" y2="28.9438" id="XMLID_7_" gradientUnits="userSpaceOnUse">
+          <stop style="stop-color:#383838;stop-opacity:1" offset="0.19660001" id="stop425"/>
+          <stop style="stop-color:#414141;stop-opacity:1" offset="0.2201" id="stop427"/>
+          <stop style="stop-color:#898989;stop-opacity:1" offset="0.4113" id="stop429"/>
+          <stop style="stop-color:#b6b6b6;stop-opacity:1" offset="0.54879999" id="stop431"/>
+          <stop style="stop-color:#c7c7c7;stop-opacity:1" offset="0.61799997" id="stop433"/>
+          <stop style="stop-color:#cfcfcf;stop-opacity:1" offset="1" id="stop435"/>
+        </linearGradient>
+        <path d="M 80.439,84.403 C 82.132,82.931 82.31,80.093 80.552,76.365 L 48.805,8.967 C 46.637,4.368 43.342,2.745 40.26,4.148 C 38.781,4.821 34.094,8.518 33.109,9.121 C 31.844,9.896 30.632,11.198 29.572,13.03 L 4.077,57.108 C 0.277,63.679 3.125,70.81 10.406,72.955 L 66.756,89.551 C 69.508,90.361 71.69,90.313 73.166,89.569 C 74.645,88.826 79.34,85.358 80.439,84.403 z " style="fill:url(#XMLID_7_)" id="path437"/>
+        <g id="g439">
+          <path d="M 11.556,73.293 C 3.643,70.962 0.547,63.212 4.678,56.07 L 28.972,14.066 C 33.103,6.925 39.359,7.188 42.874,14.651 L 73.602,79.881 C 77.118,87.344 73.52,91.543 65.606,89.212 L 11.556,73.293 z " style="fill:#ffffff" id="path441"/>
+        </g>
+        <g id="g443">
+          <linearGradient x1="70.897499" y1="26.5044" x2="7.1051998" y2="99.259102" id="XMLID_8_" gradientUnits="userSpaceOnUse">
+            <stop style="stop-color:#ff5900;stop-opacity:1" offset="0.25" id="stop446"/>
+            <stop style="stop-color:#b50000;stop-opacity:1" offset="0.5" id="stop448"/>
+            <stop style="stop-color:#610000;stop-opacity:1" offset="0.75" id="stop450"/>
+            <stop style="stop-color:#000000;stop-opacity:1" offset="1" id="stop452"/>
+          </linearGradient>
+          <path d="M 11.899,68.926 C 7.15,67.528 5.294,62.877 7.772,58.592 L 31.391,17.757 C 33.87,13.472 37.623,13.63 39.733,18.108 L 68.178,78.49 C 70.288,82.968 68.129,85.487 63.38,84.089 L 11.899,68.926 z " style="fill:url(#XMLID_8_)" id="path454"/>
+        </g>
+        <g id="g456">
+          <path d="M 35.988,69.454 C 32.691,68.508 30.382,65.428 30.382,62.187 C 30.382,58.833 32.691,57.132 36.043,58.093 C 39.395,59.055 41.593,62.048 41.648,65.415 C 41.648,68.657 39.45,70.445 36.043,69.469 L 35.988,69.454 z M 32.361,53.532 L 30.932,30.361 L 41.154,33.293 L 39.725,55.645 L 32.361,53.532 z " style="fill:#ffffff" id="path458"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
