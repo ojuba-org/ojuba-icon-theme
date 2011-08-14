@@ -1,6 +1,6 @@
 Name:           ojuba-icon-theme
-Version:        4
-Release:        2%{?dist}
+Version:        5
+Release:        1%{?dist}
 Summary:        ojuba icon theme
 Group:          User Interface/Desktops
 License:        Waqf
