@@ -2,7 +2,7 @@
 
 for t in ojuba-crystal Ojuba;do
   pushd $t
-  for i in 16 22 24 32 36 48;do
+  for i in 16 22 24 32 36 48 64 96 128 256;do
     mkdir ${i}x${i}
     # render png files
     for f in $(find scalable/ -type f -iname '*.svg');do
