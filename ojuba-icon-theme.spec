@@ -1,12 +1,12 @@
+%global owner ojuba-org
+%global commit #Write commit number here
 Name:           ojuba-icon-theme
-Version:        5
+Version:        35
 Release:        1%{?dist}
-Summary:        ojuba icon theme
-Group:          User Interface/Desktops
-License:        Waqf
-URL:            http://www.ojuba.org
-Source0:        %{name}-%{version}.tar.bz2
-BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
+Summary:        Ojuba Icon Theme
+License:        WAQFv2
+URL:            http://ojuba.org
+Source:			https://github.com/%{owner}/%{name}/archive/%{commit}/%{name}-%{commit}.tar.gz
 BuildArch:      noarch
 Requires(post): gtk2 >= 2.6.0
 Requires(postun): gtk2 >= 2.6.0
@@ -18,15 +18,15 @@ Provides:       system-icon-theme
 This package contains the ojuba icon theme.
 
 %prep
-%setup -q
-
-%build
-
-%install
+%setup -q -n %{name}-%{commit}
 rm -rf %{buildroot}
 rm ojuba-crystal/scalable/places/start-here.svg
 rm Ojuba/scalable/places/start-here.svg
+
+%build
 ./render.sh
+
+%install
 mkdir -p %{buildroot}%{_datadir}/icons
 for i in ojuba-crystal Ojuba;do
   cp -r --preserve=timestamps $i %{buildroot}%{_datadir}/icons
@@ -49,18 +49,19 @@ if [ -x %{_bindir}/gtk-update-icon-cache ]; then
 fi
 done
 
-%clean
-rm -rf %{buildroot}
-
-
 %files
 %defattr(0644,root,root,0755)
-%doc LICENSE
+%doc waqf2-ar.pdf
 %{_datadir}/icons/*
 %ghost %{_datadir}/icons/*/icon-theme.cache
 
 
 %changelog
+* Sat Feb 22 2014 Mosaab Alzoubi <moceap@hotmail.com> - 35-1
+- Include new application icons.
+- General Revision.
+- Update for Ojuba 35.
+
 * Thu Jun 15 2010  Muayyad Saleh AlSadi <alsadi@ojuba.org> - 4-6
 - update for ojuba 4
 
