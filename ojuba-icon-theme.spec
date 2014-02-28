@@ -2,7 +2,7 @@
 %global commit #Write commit number here
 Name:           ojuba-icon-theme
 Version:        35
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Ojuba Icon Theme
 License:        WAQFv2
 URL:            http://ojuba.org
@@ -57,6 +57,9 @@ done
 
 
 %changelog
+* Sat Feb 22 2014 Mosaab Alzoubi <moceap@hotmail.com> - 35-2
+- Fixes
+
 * Sat Feb 22 2014 Mosaab Alzoubi <moceap@hotmail.com> - 35-1
 - Include new application icons.
 - General Revision.
